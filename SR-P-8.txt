@@ -8,3 +8,4 @@ Jakub Kaszuba 221097
 Piotr Rabiej 200231
 Michał Stuleblak 212566
 Maciej Strzyżewski 204025
+Konrad Dziagacz 186465
